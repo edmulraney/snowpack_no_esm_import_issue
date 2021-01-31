@@ -1,0 +1,15 @@
+{
+  "name": "no_esm_import",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "snowpack": "^3.0.11"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1"
+  }
+}

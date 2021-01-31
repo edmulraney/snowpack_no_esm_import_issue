@@ -1,2 +1,4 @@
 import React from "react";
-console.log("hello world", React);
+import * as Ramda from "ramda";
+
+console.log("hello world", React, Ramda);
